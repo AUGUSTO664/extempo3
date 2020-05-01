@@ -1,0 +1,150 @@
+ 1388  gcc matrix.c
+ 1389  ./a.out
+ 1390  nano matrix.c
+ 1391  ls
+ 1392  cd Documentos 
+ 1393  ks
+ 1394  ls
+ 1395  cd program 
+ 1396  ls
+ 1397  cd calculator
+ 1398  ls
+ 1399  cd ..
+ 1400  ls
+ 1401  cd gitcheatsheet
+ 1402  ls
+ 1403  cd matrix 
+ 1404  git status 
+ 1405  git add matrix.c
+ 1406  git status
+ 1407  git push
+ 1408  git commit 
+ 1409  git status 
+ 1410  ls
+ 1411  cd Escritorio
+ 1412  ls
+ 1413  cd practical
+ 1414  cd practical_c_programing
+ 1415  ls
+ 1416  nano array_array 
+ 1417  nano array_array.c
+ 1418  gcc array_array.c
+ 1419  nano array_array.c
+ 1420  gcc array_array.c
+ 1421  ./a.out
+ 1422  nano array_array.c
+ 1423  ls
+ 1424  cd Escritorio
+ 1425  ls
+ 1426  cd practical_c_programing
+ 1427  ls
+ 1428  nano str_str.c
+ 1429  gcc str_str.c
+ 1430  nano str_str.c
+ 1431  gcc str_str.c
+ 1432  ./a.out
+ 1433  nano full_full.c
+ 1434  gcc full_full.c
+ 1435  nano full_full.c
+ 1436  gcc full_full.c
+ 1437  nano full_full.c
+ 1438  gcc full_full.c
+ 1439  ./a.out
+ 1440  nano full_full.c
+ 1441  ls
+ 1442  nano length_length.c
+ 1443  gcc length_length.c
+ 1444  nano length_length.c
+ 1445  gcc length_length.c
+ 1446  nano length_length.c
+ 1447  gcc length_length.c
+ 1448  ./a.out
+ 1449  ls
+ 1450  nano full2_full2.c
+ 1451  gcc full2_full2.c
+ 1452  ./a.out
+ 1453  ls
+ 1454  cd Documentos
+ 1455  ls
+ 1456  cd program 
+ 1457  ls
+ 1458  cd gitcheatsheet
+ 1459  ls
+ 1460  cd hard_way_series
+ 1461  ls
+ 1462  nano exercise10.c
+ 1463  ls
+ 1464  nano exercise11.c
+ 1465  ls
+ 1466  cd program 
+ 1467  cd Documentos
+ 1468  cd program 
+ 1469  ls
+ 1470  cd gitcheatsheet 
+ 1471  ls
+ 1472  cd hard way series
+ 1473  cd hard_way_series 
+ 1474  ls
+ 1475  nano exercise15.c
+ 1476  gcc exercise15.c
+ 1477  ./a.out
+ 1478  ls
+ 1479  cd Documentos 
+ 1480  ls
+ 1481  cd program
+ 1482  ls
+ 1483  cd gitcheatsheet 
+ 1484  ls
+ 1485  nano pointers.c
+ 1486  gcc pointers.c
+ 1487  ./a.out
+ 1488  nano pointers.c
+ 1489  nano hundred.c
+ 1490  gcc hundred.c
+ 1491  ./a.out
+ 1492  nano pointers.c
+ 1493  nano hundred.c
+ 1494  gcc hundred.c
+ 1495  ./a.out
+ 1496  nano hundred.c
+ 1497  gcc hundred.c
+ 1498  ./a.out
+ 1499  nano hundred.c
+ 1500  gcc hundred.c
+ 1501  ./a.out
+ 1502  nano hundred.c
+ 1503  gcc hundred.c
+ 1504  ./a.out
+ 1505  nano hundred.c
+ 1506  gcc hundred.c
+ 1507  ./a.out
+ 1508  nano hundred.c
+ 1509  gcc hundred.c
+ 1510  ./a.out
+ 1511  nano hundred.c
+ 1512  ls
+ 1513  nano pointers.c
+ 1514  ls
+ 1515  cd Escritorio 
+ 1516  ls
+ 1517  mkdir extempo3
+ 1518  cd extempo3
+ 1519  ls
+ 1520  nano function.c
+ 1521  git init 
+ 1522  nano function.c
+ 1523  git status 
+ 1524  git add function.c
+ 1525  git status 
+ 1526  git commit 
+ 1527  nano pointers.c 
+ 1528  git status 
+ 1529  git add pointers.c
+ 1530  git status 
+ 1531  git commit 
+ 1532  history | tail -n 150 > extempohistory.txt
+ 1533  ls
+ 1534  cat extempohsitory.txt 
+ 1535  nano extempohistory.txt
+ 1536  git remote add extempo3 https://github.com/AUGUSTO664/extempo3.git
+ 1537  history | tail -n 150 > extempohistory2version.txt
